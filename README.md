@@ -1,7 +1,13 @@
-# Task Planner Onboarding  
+# 📝 Task Planner Onboarding  
 
-## Overview  
+## 🚀 Overview  
 This repository contains onboarding materials for the **Task Planner** project at T-Bank. The purpose of this document is to provide the team with a clear functional understanding of the project, its objectives, and implementation steps.  
+
+## 📑 Resources  
+
+📌 **Project Requirements:** [Eng Task Planner Requirements](https://temablag.github.io/Task-planner/task_eng.pdf), [Ru Task Planner Requirements](https://temablag.github.io/Task-planner/task_ru.pdf)
+
+📌 **Presentation Deck:** [Project Onboarding Presentation](https://temablag.github.io/Task-planner/onboarding.pdf)
 
 ## Project Description  
 Based on user feedback, there is a need for a convenient **task planner** that allows users to schedule tasks such as:  
